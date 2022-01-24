@@ -4,6 +4,7 @@
 - [1. Qual é o objetivo de um Relatório de Estágio?](#1-qual-é-o-objetivo-de-um-relatório-de-estágio)
 - [2. Como um Relatório de Estágio deve estar organizado?](#2-como-um-relatório-de-estágio-deve-estar-organizado)
 - [3. Como posso escrever a "Introdução" de um Relatório de Estágio?](#3-como-posso-escrever-a-introdução-de-um-relatório-de-estágio)
+- [4. Como posso escrever a "Fundamentação Teórica" de um Relatório de Estágio?](#4-como-posso-escrever-a-fundamentação-teórica-de-um-relatório-de-estágio)
 
 ## 1. Qual é o objetivo de um Relatório de Estágio?
 *Todo*
@@ -33,6 +34,13 @@ O último parágrafo do texto deste capítulo deve apresentar como o trabalho en
 
 Não é comum, neste capítulo, utilizar figuras, tabelas, quadros, entre outros. Deixe isso para os capítulos a frente, principalmente o capítulo *Fundamentação Teórica*. 
 
-Por outro lado, algo bem comum é você precisar citar algum documento produzido por outra pessoa, tal como um estudo científico, uma pesquisa de opinião, um *website* de uma ferramenta computacional, entre outros. 
+Por outro lado, algo bem comum é você precisar citar algum documento produzido por outra pessoa, tal como um estudo científico, uma pesquisa de opinião, um *website* de uma ferramenta computacional, entre outros. Para mais detalhes sobre isso, consulte a seção **Evite plágio! Faça citações sempre que necessário** na [página inicial](README.md#evite-plágio-faça-citações-sempre-que-necessário) deste Guia. 
 
-Para fazer isso, siga as instruções do **Manual de Normalização de Trabalhos Acadêmicos da UFLA**, o qual pode ser obtido [aqui](http://repositorio.ufla.br/jspui/handle/1/41282). No vídeo a seguir, eu explico um pouco mais sobre isso (a partir do minuto 8): [fazendo citações de acordo com Manual de Normalização de Trabalhos Acadêmicos da UFLA](https://www.youtube.com/watch?v=KqeUe-H5yGo&t=480s).
+## 4. Como posso escrever a "Fundamentação Teórica" de um Relatório de Estágio?
+A fundamentação teórica de um relatório de estágio deve conter, dentre outras coisas, uma descrição dos conceitos, ferramentas, técnicas, metodologias, entre outras coisas utilizadas ao longo do estágio. É importante destacar que tudo isso não deve ser apresentado simplesmente por apresentar. O texto deste capítulo deve-se ter alguma relação com o restante do texto do TCC, em especial, com o capítulo **Atividades Realizadas**. 
+
+Por exemplo, suponha que você tenha realizado testes E2E (*End-to-end*) em uma aplicação Web desenvolvida pela empresa. Então, no capítulo **Fundamentação Teórica**, você teria uma seção sobre testes E2E, explicando o que são, para que servem e como são realizados. Além disso, se você utilizou alguma ferramenta para realizar os testes (p. ex. Cypress), seria interessante falar sobre ela também. Dessa forma, quando o leitor chegar ao capítulo **Atividades Realizadas** e descobrir que você criou *N* testes E2E para a aplicaçao Web *XYZ* da empresa, utilizando a ferramenta Cypress, ele vai saber exatamente do que se trata. 
+
+No caso de ferramentas e linguagens, além das informações básicas (o que é, para que serve, etc), é interessante apresentar um exemplo simples de utilização dessa ferramenta/linguagem. Para mais detalhes sobre isso, por favor, leia a seção **Comente suas figuras, tabelas e trechos de código** na [página inicial](README.md#comente-suas-figuras-tabelas-e-trechos-de-código) deste Guia. 
+
+Por último, assim como ocorre no capítulo **Introdução**, algo bem comum de ocorrer neste capítulo é você precisar citar algum documento produzido por outra pessoa, tal como um estudo científico, uma pesquisa de opinião, um *website* de uma ferramenta computacional, entre outros. Para mais detalhes sobre isso, consulte a seção **Evite plágio! Faça citações sempre que necessário** na [página inicial](README.md#evite-plágio-faça-citações-sempre-que-necessário) deste Guia.
