@@ -10,6 +10,8 @@ Este guia tem como objetivo disponibilizar em um só lugar as respostas para as 
   - [Destaque para os capítulos](#destaque-para-os-capítulos)
   - [Tempo verbal](#tempo-verbal)
   - [Impessoalidade](#impessoalidade)
+  - [Comente suas figuras, tabelas e trechos de código](#comente-suas-figuras-tabelas-e-trechos-de-código)
+  - [Evite plágio! Faça citações sempre que necessário](#evite-plágio-faça-citações-sempre-que-necessário)
 - [4. Como posso contribuir com o Guia do TCC?](#4-como-posso-contribuir-com-o-guia-do-tcc)
 - [5. Quem são os colaboradores do Guia do TCC?](#5-quem-são-os-colaboradores-do-guia-do-tcc)
 
@@ -62,6 +64,33 @@ Exemplo:
     [EVITE!] Nós fizemos a avaliação do aplicativo com 10 usuários... 
     
     [ASSIM FICA MELHOR] A avaliação do aplicativo foi realizada com 10 usuários...
+
+### Comente suas figuras, tabelas e trechos de código
+
+Mais importante do que as figuras, tabelas e trechos de código que você apresenta em seu TCC são as explicações que você oferece a respeito deles. Na maioria dos casos, esses elementos não são autoexplicativos, por isso você deve discutir sobre eles no texto. Eis um exemplo:
+
+> O código abaixo apresenta um exemplo de programa escrito na linguagem Go. Na linha 1 é definido o nome do pacote ao qual esse código está 
+> embutido, neste caso, o pacote *main*. A linha 3 apresenta a importação de um pacote nativo da linguagem Go, a saber _fmt_, o qual possui 
+> funções de I/O análogas às funções *printf* e *scanf* da linguagem C. Entre as linhas 5 e 7 está compreendido o código da função _main_, que
+> é o ponto de partida de um programa Go. Por último, a linha 6 usa a função *Println* do pacote *fmt* para imprimir a mensagem *Hello from
+> "Guia do TCC"* na tela do usuário.
+
+
+```go
+1. package main
+2. 
+3. import "fmt"
+4. 
+5. func main() {
+6.     fmt.Println(`Hello from "Guia do TCC"`)
+7. }
+```
+
+### Evite plágio! Faça citações sempre que necessário
+
+Algo bem comum em um trabalho acadêmico (seja Relatório de Estágio, Monografia, Relatório Técnico, etc) é você precisar citar algum documento produzido por outra pessoa, tal como um estudo científico, uma pesquisa de opinião, um *website* de uma ferramenta computacional, entre outros. 
+
+Para fazer isso, siga as instruções do **Manual de Normalização de Trabalhos Acadêmicos da UFLA**, o qual pode ser obtido [aqui](http://repositorio.ufla.br/jspui/handle/1/41282). No vídeo a seguir, eu explico um pouco mais sobre isso (a partir do minuto 8): [fazendo citações de acordo com Manual de Normalização de Trabalhos Acadêmicos da UFLA](https://www.youtube.com/watch?v=KqeUe-H5yGo&t=480s).
 
 ## 4. Como posso contribuir com o Guia do TCC?
 
