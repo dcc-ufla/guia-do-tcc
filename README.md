@@ -21,6 +21,7 @@ Aqui no DCC/UFLA, as modalidades aceitas para TCC são: **monografia**, **relat�
 
 Uma vez escolhida a modalidade do TCC, acesse o *link* correspondente abaixo para obter mais informações sobre ela:
 
+- [Monografia](monografia.md)
 - [Relatório de Estágio](relatorio-estagio.md)
 
 ## 2. Qual formato devo utilizar para escrever meu TCC?
