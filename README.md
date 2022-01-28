@@ -12,7 +12,8 @@ Este guia tem como objetivo disponibilizar em um só lugar as respostas para as 
   - [Impessoalidade](#impessoalidade)
   - [Comente suas figuras, tabelas e trechos de código](#comente-suas-figuras-tabelas-e-trechos-de-código)
   - [Evite plágio! Faça citações sempre que necessário](#evite-plágio-faça-citações-sempre-que-necessário)
-- [4. Como posso contribuir com o Guia do TCC?](#4-como-posso-contribuir-com-o-guia-do-tcc)
+- [4. Como escrever um convite de participação para os membros da banca de defesa de TCC?](#4-como-escrever-um-convite-de-participação-para-os-membros-da-banca-de-defesa-de-tcc)
+- [6. Como posso contribuir com o Guia do TCC?](#6-como-posso-contribuir-com-o-guia-do-tcc)
 - [5. Quem são os colaboradores do Guia do TCC?](#5-quem-são-os-colaboradores-do-guia-do-tcc)
 
 ## 1. Quais modalidades de TCC de eu posso realizar?
@@ -93,7 +94,28 @@ Algo bem comum em um trabalho acadêmico (seja Relatório de Estágio, Monografi
 
 Para fazer isso, siga as instruções do **Manual de Normalização de Trabalhos Acadêmicos da UFLA**, o qual pode ser obtido [aqui](http://repositorio.ufla.br/jspui/handle/1/41282). No vídeo a seguir, eu explico um pouco mais sobre isso (a partir do minuto 8): [fazendo citações de acordo com Manual de Normalização de Trabalhos Acadêmicos da UFLA](https://www.youtube.com/watch?v=KqeUe-H5yGo&t=480s).
 
-## 4. Como posso contribuir com o Guia do TCC?
+## 4. Como escrever um convite de participação para os membros da banca de defesa de TCC?
+
+A banca de defesa de um TCC é constituída por indivíduos irão avaliar seu trabalho e deliberar sobre sua aprovação ou não. No caso de trabalhos de graduação, a banca é composta por seu orientador (que assume o papel de presidente da banca) e mais duas pessoas.
+
+Geralmente, quem escolhe a banca é o próprio aluno, juntamente com seu orientador, e um dos primeiros passos após a escolha dos nomes é enviar um convite formal para participação da defesa. Esse é um passo importante, pois é o primeiro contato entre o aluno e, possivelmente, os membros da sua banca de defesa.
+
+Ao redigir um convite, atente-se para que algumas informações estejam presentes, tais como **seu nome**, o **nome do seu orientador** e o **título do seu trabalho**. Se preferir, o convite de participação pode também indicar uma lista de prováveis horários para a defesa. Segue abaixo um *template* para convite a ser enviado aos membros da banca:
+
+> Prezado(a) prof(a). ________ (ou mais informalmente: "Olá, prof(a). ________")
+> 
+> Meu nome é ________ e sou aluno(a) do curso Bacharelado em ________. Estou para defender meu Trabalho de 
+> Conclusão de Curso (TCC), intitulado ________, que foi desenvolvido sob a orientação do(a) prof(a). ________.
+> 
+> Gostaria de convidá-lo(a) para fazer parte da banca de defesa de meu TCC. Caso aceite o convite, gostaria
+> de saber quais são suas disponibilidades de horário para a semana de __ / __ a __ / __. 
+> 
+> Atenciosamente, ________
+
+Com relação às disponibilidades de horário dos membros da banca, algumas pessoas costumam utilizar ferramentas online, tais como [Doodle](https://doodle.com/pt_BR/marcar-reuniao), para gerenciá-las.
+
+
+## 6. Como posso contribuir com o Guia do TCC?
 
 Encontrou algum erro gramatical no Guia? Está com alguma dúvida que ainda não foi respondida? Há alguma resposta incompleta ou que não está muito clara para você? Caso sim, então você está convidado(a) a contribuir com o Guia do TCC. 
 
