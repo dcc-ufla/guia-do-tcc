@@ -13,8 +13,8 @@ Este guia tem como objetivo disponibilizar em um só lugar as respostas para as 
   - [Comente suas figuras, tabelas e trechos de código](#comente-suas-figuras-tabelas-e-trechos-de-código)
   - [Evite plágio! Faça citações sempre que necessário](#evite-plágio-faça-citações-sempre-que-necessário)
 - [4. Como escrever um convite de participação para os membros da banca de defesa de TCC?](#4-como-escrever-um-convite-de-participação-para-os-membros-da-banca-de-defesa-de-tcc)
-- [6. Como posso contribuir com o Guia do TCC?](#6-como-posso-contribuir-com-o-guia-do-tcc)
-- [5. Quem são os colaboradores do Guia do TCC?](#5-quem-são-os-colaboradores-do-guia-do-tcc)
+- [5. Como posso contribuir com o Guia do TCC?](#5-como-posso-contribuir-com-o-guia-do-tcc)
+- [6. Quem são os colaboradores do Guia do TCC?](#6-quem-são-os-colaboradores-do-guia-do-tcc)
 
 ## 1. Quais modalidades de TCC de eu posso realizar?
 
@@ -115,7 +115,7 @@ Ao redigir um convite, atente-se para que algumas informações estejam presente
 Com relação às disponibilidades de horário dos membros da banca, algumas pessoas costumam utilizar ferramentas online, tais como [Doodle](https://doodle.com/pt_BR/marcar-reuniao), para gerenciá-las.
 
 
-## 6. Como posso contribuir com o Guia do TCC?
+## 5. Como posso contribuir com o Guia do TCC?
 
 Encontrou algum erro gramatical no Guia? Está com alguma dúvida que ainda não foi respondida? Há alguma resposta incompleta ou que não está muito clara para você? Caso sim, então você está convidado(a) a contribuir com o Guia do TCC. 
 
@@ -136,6 +136,6 @@ Para isso, você deve seguir os seguintes passos:
 A partir daí, seu PR será revisado pelos administradores do repositório e algumas interações poderão ser ocorrer, utilizando a própria interface do Github. Caso tudo ocorra bem, será feito um *merge* de sua contribuição para a *branch main* do Guia do TCC e seu nome passará a constar na seção de colaboradores do Guia.
 
 
-## 5. Quem são os colaboradores do Guia do TCC?
+## 6. Quem são os colaboradores do Guia do TCC?
 
 *Todo*
