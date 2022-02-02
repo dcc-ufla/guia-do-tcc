@@ -26,7 +26,9 @@ Veja abaixo um exemplo de título para o capítulo *Fundamentação Teórica*, b
 ## 3. Como posso escrever a "Introdução" de um Relatório de Estágio?
 A introdução de um relatório de estágio deve conter, dentre outras coisas, uma **descrição do local do estágio** (empresa, instituição, entre outros), destacando suas principais características, tais como *localização*, *número de funcionários*, *principal ramo de negócio*, dentre outros.
 
-Além disso, deve-se apresentar o período em que o estágio foi desenvolvido, bem como os principais projetos nos quais o estagiário esteve atuou. É recomendado, ainda, que esta seção do relatório de estágio apresente uma breve descrição das atividades realizadas pelo estagiário nos projetos listados anteriormente.
+Além disso, deve-se apresentar o período em que o estágio foi desenvolvido, bem como os principais projetos nos quais o estagiário esteve atuou. É recomendado, ainda, que esta seção do relatório de estágio apresente uma breve descrição das atividades realizadas pelo estagiário nos projetos listados anteriormente. Eis alguns exemplos de atividades realizadas:
+
+> Como principais atividades realizadas neste estágio, têm-se: o desenvolvimento da tela de cadastro de fornecedores do sistema X, a correção de alguns *bugs* encontrados pelos testadores no módulo de pedidos do sistema Y e a escrita de testes automatizados para a funcionalidade de cadastro de questões do sistema Z.
 
 O último parágrafo do texto deste capítulo deve apresentar como o trabalho encontra-se organizado. Veja um trecho de exemplo abaixo: 
 
