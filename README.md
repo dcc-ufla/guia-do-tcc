@@ -6,12 +6,13 @@ Este guia tem como objetivo disponibilizar em um só lugar as respostas para as 
 - [1. Quais modalidades de TCC de eu posso realizar?](#1-quais-modalidades-de-tcc-de-eu-posso-realizar)
 - [2. Qual formato devo utilizar para escrever meu TCC?](#2-qual-formato-devo-utilizar-para-escrever-meu-tcc)
 - [3. Quais são as orientações gerais para a escrita de um TCC?](#3-quais-são-as-orientações-gerais-para-a-escrita-de-um-tcc)
-  - [Frases e parágrafos curtos](#frases-e-parágrafos-curtos)
-  - [Destaque para os capítulos](#destaque-para-os-capítulos)
-  - [Tempo verbal](#tempo-verbal)
-  - [Impessoalidade](#impessoalidade)
-  - [Comente suas figuras, tabelas e trechos de código](#comente-suas-figuras-tabelas-e-trechos-de-código)
-  - [Evite plágio! Faça citações sempre que necessário](#evite-plágio-faça-citações-sempre-que-necessário)
+  - [3.1. Prefira frases e parágrafos curtos](#31-prefira-frases-e-parágrafos-curtos)
+  - [3.2. Dê destaque para os capítulos](#32-dê-destaque-para-os-capítulos)
+  - [3.3. Cuidado com o tempo verbal](#33-cuidado-com-o-tempo-verbal)
+  - [3.4. Seja impessoal](#34-seja-impessoal)
+  - [3.5. Comente suas figuras, tabelas e trechos de código](#35-comente-suas-figuras-tabelas-e-trechos-de-código)
+  - [3.6. Evite plágio! Faça citações sempre que necessário](#36-evite-plágio-faça-citações-sempre-que-necessário)
+  - [3.7. Tenha cuidado com suas fontes!](#37-tenha-cuidado-com-suas-fontes)
 - [4. Como escrever um convite de participação para os membros da banca de defesa de TCC?](#4-como-escrever-um-convite-de-participação-para-os-membros-da-banca-de-defesa-de-tcc)
 - [5. Como posso contribuir com o Guia do TCC?](#5-como-posso-contribuir-com-o-guia-do-tcc)
 - [6. Quem são os colaboradores do Guia do TCC?](#6-quem-são-os-colaboradores-do-guia-do-tcc)
@@ -39,15 +40,15 @@ Se for utilizar Google Docs, há um modelo disponível [aqui](https://docs.googl
 
 Abaixo estão algumas orientações gerais, as quais se aplicam a qualquer modalidade de TCC descrita na [Questão 1](#1-quais-modalidades-de-tcc-de-eu-posso-realizar) deste Guia.
 
-### Frases e parágrafos curtos
+### 3.1. Prefira frases e parágrafos curtos
 
 Escreva frases e parágrafos curtos com ideias completas, isto é, contendo *início*, *meio* e *fim*.
 
-### Destaque para os capítulos
+### 3.2. Dê destaque para os capítulos
 
 Cada início de capítulo deve ficar em uma página nova. Ou seja, se uma seção terminou no meio de uma página e você pretende iniciar um novo capítulo, então deixe o restante da página em branco e começe uma página nova.
 
-### Tempo verbal
+### 3.3. Cuidado com o tempo verbal
 
 Em textos acadêmicos, normalmente nós escrevemos no tempo presente ou passado, mas raramente no futuro, pois se trata de um trabalho já finalizado (uma exceção à regra é a seção *Trabalhos Futuros*). 
 
@@ -57,7 +58,7 @@ Exemplo:
     
     [ASSIM FICA MELHOR] Este relatório está organizado em capítulos... 
 
-### Impessoalidade
+### 3.4. Seja impessoal
 
 Evite usar pronomes e verbos em primeira pessoa (singular ou plural). 
 
@@ -67,7 +68,7 @@ Exemplo:
     
     [ASSIM FICA MELHOR] A avaliação do aplicativo foi realizada com 10 usuários...
 
-### Comente suas figuras, tabelas e trechos de código
+### 3.5. Comente suas figuras, tabelas e trechos de código
 
 Mais importante do que as figuras, tabelas e trechos de código que você apresenta em seu TCC são as explicações que você oferece a respeito deles. Na maioria dos casos, esses elementos não são autoexplicativos, por isso você deve discutir sobre eles no texto. Eis um exemplo:
 
@@ -88,11 +89,33 @@ Mais importante do que as figuras, tabelas e trechos de código que você aprese
 7. }
 ```
 
-### Evite plágio! Faça citações sempre que necessário
+### 3.6. Evite plágio! Faça citações sempre que necessário
 
 Algo bem comum em um trabalho acadêmico (seja Relatório de Estágio, Monografia, Relatório Técnico, etc) é você precisar citar algum documento produzido por outra pessoa, tal como um estudo científico, uma pesquisa de opinião, um *website* de uma ferramenta computacional, entre outros. 
 
 Para fazer isso, siga as instruções do **Manual de Normalização de Trabalhos Acadêmicos da UFLA**, o qual pode ser obtido [aqui](http://repositorio.ufla.br/jspui/handle/1/41282). No vídeo a seguir, eu explico um pouco mais sobre isso (a partir do minuto 8): [fazendo citações de acordo com Manual de Normalização de Trabalhos Acadêmicos da UFLA](https://www.youtube.com/watch?v=KqeUe-H5yGo&t=480s).
+
+### 3.7. Tenha cuidado com suas fontes!
+
+Algumas perguntas que ocorrem como consequência direta da recomendação anterior são: *Que tipo de documento eu posso citar em um TCC? Como posso escolher um estudo que seja confiável para emabasar meu TCC?*
+
+Essas são boas perguntas e indo bem direto ao ponto, do mais confiável para o menos confiável, eu sugiro: 
+
+- **Artigos Científicos**: porque, em geral, são revisados por 3 (três) pesquisadores antes de serem publicado.
+- **Livros**: passam por revisão técnica e pelo crivo do editor também. É importante destacar que o conteúdo advindo de livros pode estar "desatualizado", por isso eles não são tão recomendados para embasar problemas de pesquisa. Podem ser úteis para explicar conceitos já consolidados.  
+- **Artigos disponibilizados por órgãos governamentais**: passam por revisão interna, mas são propensos a influência por questões políticas mais do que os outros tipos de estudo.
+- **TCC, monografia, etc**: apesar de passarem pela revisão de uma banca, muitas vezes, o processo de revisão do texto final fica apenas a cargo do orientador e do orientando.
+- **Artigos em blogs**: não costumam passar por revisão, a não ser a do próprio autor. Porém, isso é relativo. Eu considero um *post* do Martin Fowler mais confiável do que alguns artigos científicos que vejo por aí :) 
+
+Outro ponto que eu gostaria de destacar é que a **Wikipédia** sofre muito preconceito, mas é uma boa fonte de consulta. Em geral, para você publicar alguma coisa lá, outros usuários têm que aprovar e você precisará fornecer referências (evidências) para as afirmações que fizer. 
+
+Eu recomendo utilizar a Wikipédia da seguinte forma: (1) leia o conteúdo da página; (2) vá até a(s) referência(s) indicada(s) por ela e confira se está(ão) OK; e (3) caso sim, cite a(s) referência(s) indicada(s). Dessa forma, a **Wikipédia** serve mais como um guia para lhe direcionar às fontes importantes.
+
+Para tornar esse tópico um pouco mais concreto, eis alguns exemplos:
+
+> *Quero colocar uma informação no meu TCC sobre porcentagem de estradas pavimentadas no Brasil*: as melhores fontes, neste caso, são os órgãos do governo, como a ANTT (Agência Nacional de Transporte Terreste), por exemplo. Tais órgãos costumam emitir relatórios anuais com esse tipo de informação.
+
+> *Quero falar sobre Kaban no meu TCC*: procure em livros sobre métodos ágeis. Caso não encontre nada, recorra à Wikipédia, conforme expliquei anteriormente. Caso não encontre nada ainda (pouco provável), procure em postagens de *blogs* cujo autor seja alguém reconhecido pela comunidade (Martin Fowler, Robert Martin, Alistair Cockburn, entre outros).
 
 ## 4. Como escrever um convite de participação para os membros da banca de defesa de TCC?
 
