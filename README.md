@@ -28,7 +28,7 @@ Uma vez escolhida a modalidade do TCC, acesse o *link* correspondente abaixo par
 
 ## 2. Qual formato devo utilizar para escrever meu TCC?
 
-Todo trabalho acadêmico realizado na UFLA deve (ou pelo menos deveria) estar em conformidade com o **Manual de Normalização de Trabalhos Acadêmicos da UFLA**, o qual pode ser obtido [aqui](http://repositorio.ufla.br/jspui/handle/1/41282). Para saber mais sobre este manual, assista a esta [vídeo-aula](https://www.youtube.com/watch?v=KqeUe-H5yGo).
+Todo trabalho acadêmico realizado na UFLA deve (ou pelo menos deveria) estar em conformidade com o **Manual de Normalização de Trabalhos Acadêmicos da UFLA**, o qual pode ser obtido [aqui](http://repositorio.ufla.br/jspui/handle/1/41282). Para saber mais sobre este manual, assista a esta [videoaula](https://www.youtube.com/watch?v=KqeUe-H5yGo).
 
 Quanto ao *template* utilizado para a escrita do TCC, muitos alunos preferem utilizar *Latex*. Contudo, nada impede que você utilize editores de texto tradicionais, tais como MS Word, Google Docs, entre outros. 
 
@@ -46,7 +46,7 @@ Escreva frases e parágrafos curtos com ideias completas, isto é, contendo *in�
 
 ### 3.2. Dê destaque para os capítulos
 
-Cada início de capítulo deve ficar em uma página nova. Ou seja, se uma seção terminou no meio de uma página e você pretende iniciar um novo capítulo, então deixe o restante da página em branco e começe uma página nova.
+Cada início de capítulo deve ficar em uma página nova. Ou seja, se uma seção terminou no meio de uma página e você pretende iniciar um novo capítulo, então deixe o restante da página em branco e comece uma página nova.
 
 ### 3.3. Cuidado com o tempo verbal
 
@@ -101,7 +101,7 @@ Algumas perguntas que ocorrem como consequência direta da recomendação anteri
 
 Essas são boas perguntas e indo bem direto ao ponto, do mais confiável para o menos confiável, eu sugiro: 
 
-- **Artigos Científicos**: porque, em geral, são revisados por 3 (três) pesquisadores antes de serem publicado.
+- **Artigos Científicos**: porque, em geral, são revisados por 3 (três) pesquisadores antes de serem publicados.
 - **Livros**: passam por revisão técnica e pelo crivo do editor também. É importante destacar que o conteúdo advindo de livros pode estar "desatualizado", por isso eles não são tão recomendados para embasar problemas de pesquisa. Podem ser úteis para explicar conceitos já consolidados.  
 - **Artigos disponibilizados por órgãos governamentais**: passam por revisão interna, mas são propensos a influência por questões políticas mais do que os outros tipos de estudo.
 - **TCC, monografia, etc**: apesar de passarem pela revisão de uma banca, muitas vezes, o processo de revisão do texto final fica apenas a cargo do orientador e do orientando.
@@ -119,7 +119,7 @@ Para tornar esse tópico um pouco mais concreto, eis alguns exemplos:
 
 ## 4. Como escrever um convite de participação para os membros da banca de defesa de TCC?
 
-A banca de defesa de um TCC é constituída por indivíduos irão avaliar seu trabalho e deliberar sobre sua aprovação ou não. No caso de trabalhos de graduação, a banca é composta por seu orientador (que assume o papel de presidente da banca) e mais duas pessoas.
+A banca de defesa de um TCC é constituída por indivíduos que irão avaliar seu trabalho e deliberar sobre sua aprovação ou não. No caso de trabalhos de graduação, a banca é composta por seu orientador (que assume o papel de presidente da banca) e mais duas pessoas.
 
 Geralmente, quem escolhe a banca é o próprio aluno, juntamente com seu orientador, e um dos primeiros passos após a escolha dos nomes é enviar um convite formal para participação da defesa. Esse é um passo importante, pois é o primeiro contato entre o aluno e, possivelmente, os membros da sua banca de defesa.
 
@@ -156,7 +156,7 @@ Para isso, você deve seguir os seguintes passos:
 - [ ] fazer o *push* das mudanças realizadas para uma nova *branch* do seu respositório no Github;
 - [ ] criar um PR (*Pull Request*) para o repositório oficial do Guia do TCC (isso pode ser feito pela própria interface do Github).
 
-A partir daí, seu PR será revisado pelos administradores do repositório e algumas interações poderão ser ocorrer, utilizando a própria interface do Github. Caso tudo ocorra bem, será feito um *merge* de sua contribuição para a *branch main* do Guia do TCC e seu nome passará a constar na seção de colaboradores do Guia.
+A partir daí, seu PR será revisado pelos administradores do repositório e algumas interações poderão ocorrer, utilizando a própria interface do Github. Caso tudo ocorra bem, será feito um *merge* de sua contribuição para a *branch main* do Guia do TCC e seu nome passará a constar na seção de colaboradores do Guia.
 
 
 ## 6. Quem são os colaboradores do Guia do TCC?
