@@ -32,7 +32,7 @@ Todo trabalho acadêmico realizado na UFLA deve (ou pelo menos deveria) estar em
 
 Quanto ao *template* utilizado para a escrita do TCC, muitos alunos preferem utilizar *Latex*. Contudo, nada impede que você utilize editores de texto tradicionais, tais como MS Word, Google Docs, entre outros. 
 
-Caso pretenda utilizar *Latex*, há um modelo disponível [aqui](http://repositorio.ufla.br/jspui/bitstream/1/41282/5/Template%20para%20Monografias%20da%20UFLA%20%28Uflamon%29.zip). Uma dica importante é: **instale um pacote de verificação ortográfica para o idioma Português**. Isso facilitará muito sua vida (e a de seu orientador) durante o processo de revisão do TCC. Outra dica é utilizar ferramentas *online*, tais como [Overleaf](https://www.overleaf.com/project), para facilitar a escrita bem como compartilhamento do TCC com seus orientadores.
+Caso pretenda utilizar *Latex*, há um modelo disponível [aqui](http://repositorio.ufla.br/jspui/bitstream/1/41282/5/Uflamon-Template.zip). Uma dica importante é: **instale um pacote de verificação ortográfica para o idioma Português**. Isso facilitará muito sua vida (e a de seu orientador) durante o processo de revisão do TCC. Outra dica é utilizar ferramentas *online*, tais como [Overleaf](https://www.overleaf.com/project), para facilitar a escrita bem como compartilhamento do TCC com seus orientadores.
 
 Se for utilizar Google Docs, há um modelo disponível [aqui](https://docs.google.com/document/d/1DkKLDBG4UxdgKHiKxWdOuFusPQNOWOaB6TqeS0C6F80/edit?usp=sharing). 
 
