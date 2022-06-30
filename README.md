@@ -123,13 +123,17 @@ A banca de defesa de um TCC é constituída por indivíduos que irão avaliar se
 
 Geralmente, quem escolhe a banca é o próprio aluno, juntamente com seu orientador, e um dos primeiros passos após a escolha dos nomes é enviar um convite formal para participação da defesa. Esse é um passo importante, pois é o primeiro contato entre o aluno e, possivelmente, os membros da sua banca de defesa.
 
-Ao redigir um convite, atente-se para que algumas informações estejam presentes, tais como **seu nome**, o **nome do seu orientador** e o **título do seu trabalho**. Se preferir, o convite de participação pode também indicar uma lista de prováveis horários para a defesa. Segue abaixo um *template* para convite a ser enviado aos membros da banca:
+Ao redigir um convite, atente-se para que algumas informações estejam presentes, tais como **seu nome**, o **nome do seu orientador** e o **título do seu trabalho**. 
+Se preferir, o convite de participação pode também indicar uma lista de prováveis horários para a defesa.
+Pode ser interessante, ainda, incluir como anexo o **resumo** de sua monografia ou relatório para ajudar quem está sendo convidado a ter uma ideia melhor sobre o tema do seu trabalho.
+Segue abaixo um *template* para convite a ser enviado aos membros da banca:
 
 > Prezado(a) prof(a). ________ (ou mais informalmente: "Olá, prof(a). ________")
 > 
 > Meu nome é ________ e sou aluno(a) do curso Bacharelado em ________. Estou para defender meu Trabalho de 
-> Conclusão de Curso (TCC), intitulado ________, que foi desenvolvido sob a orientação do(a) prof(a). ________.
-> 
+> Conclusão de Curso (TCC), intitulado ________, que foi desenvolvido sob a orientação do(a) prof(a). ________, 
+> e cujo resumo envio em anexo.
+>
 > Gostaria de convidá-lo(a) para fazer parte da banca de defesa de meu TCC. Caso aceite o convite, gostaria
 > de saber quais são suas disponibilidades de horário para a semana de __ / __ a __ / __. 
 > 
