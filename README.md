@@ -58,15 +58,15 @@ Exemplo:
     
     [ASSIM FICA MELHOR] Este relatório está organizado em capítulos... 
 
-### 3.4. Seja impessoal
+### 3.4. Uso da voz ativa ou voz passiva
+  
+Seja cuidadoso ao usar pronomes e verbos em primeira pessoa (singular ou plural). Durante muito tempo, foi praticamente consenso na comunidade científica que os textos deveriam sempre evitar a voz passiva, pois o foco deveria estar na pesquisa e não no(s) autor(es).
 
-Evite usar pronomes e verbos em primeira pessoa (singular ou plural). 
+Seguindo essa ideia, seria melhor, por exemplo, escrever *A avaliação do aplicativo foi realizada com 10 usuários...* do que *Nós fizemos a avaliação do aplicativo com 10 usuários...*.
 
-Exemplo:
+Mas, recentemente, diversos veículos científicos têm incentivado o uso da voz ativa. Um dos argumentos é que a frase construída na voz ativa é mais direta e fácil de entender, o que facilita o entendimento do texto científico como um todo.
 
-    [EVITE!] Nós fizemos a avaliação do aplicativo com 10 usuários... 
-    
-    [ASSIM FICA MELHOR] A avaliação do aplicativo foi realizada com 10 usuários...
+De toda forma, como isso não parece ainda ser um novo consenso, seja cuidadoso ao escolher sua forma de escrita. Uma **sugestão geral é: escolha entre voz ativa ou voz passiva de forma a manter o foco na informação que é mais importante na frase**.
 
 ### 3.5. Comente suas figuras, tabelas e trechos de código
 
