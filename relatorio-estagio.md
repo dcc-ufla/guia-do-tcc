@@ -7,7 +7,7 @@
 - [4. Como posso escrever a "Fundamentação Teórica" de um Relatório de Estágio?](#4-como-posso-escrever-a-fundamentação-teórica-de-um-relatório-de-estágio)
 
 ## 1. Qual é o objetivo de um Relatório de Estágio?
-*Todo*
+O relatório de estágio tem como objetivo expor as atividades, os aprendizados e as informações coletadas e observadas durante o intervalo de tempo que o estudante realizou o estágio, demonstrando que o discente adquiriu experiência profissional específica, aquisição de conhecimentos e habilidades, preparando-o para o exercício profissional.
 
 ## 2. Como um Relatório de Estágio deve estar organizado?
 Em geral, um relatório de estágio é composto pelos seguintes capítulos: **Introdução**, **Fundamentação Teórica**, **Atividades Realizadas**, **Considerações Finais** e **Referências**. 

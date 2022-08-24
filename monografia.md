@@ -6,7 +6,7 @@
 - [3. Como posso escrever a "Introdução" de uma Monografia?](#3-como-posso-escrever-a-introdução-de-uma-monografia)
 
 ## 1. Qual é o objetivo de uma Monografia?
-*Todo*
+A Monografia tem como objetivo desenvolver o espírito criativo, científico, crítico, social e ético do discente de graduação, capacitando-o no estudo de problemas e proposição de soluções. Este objetivo deverá ser alcançado através da execução de trabalho individual, no qual deverão ser aplicados os conhecimentos adquiridos no curso, para a realização de uma atividade de pesquisa, de desenvolvimento técnico, de ensino ou de participação em empreendimentos e projetos de interesse social realizada pelos discentes do curso de graduação, seguindo as orientações de um docente.
 
 ## 2. Como uma Monografia deve estar organizada?
 Em geral, uma monografia é composta pelos seguintes capítulos: **Introdução**, **Fundamentação Teórica e Trabalhos Relacionados**, **Desenvolvimento**, **Considerações Finais** e **Referências**. 
