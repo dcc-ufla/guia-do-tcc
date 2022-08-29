@@ -7,7 +7,7 @@
 - [4. Como posso escrever a "Fundamentação Teórica" de um Relatório de Estágio?](#4-como-posso-escrever-a-fundamentação-teórica-de-um-relatório-de-estágio)
 
 ## 1. Qual é o objetivo de um Relatório de Estágio?
-O relatório de estágio tem como objetivo expor as atividades, os aprendizados e as informações coletadas e observadas durante o intervalo de tempo que o estudante realizou o estágio, demonstrando que o discente adquiriu experiência profissional específica, aquisição de conhecimentos e habilidades, preparando-o para o exercício profissional.
+Segundo o PPC(Projeto Pedagógico do Curso) dos cursos de Ciência da Computação[^1] e Sistemas de Informação[^2], o relatório de estágio tem como objetivo expor as atividades, os aprendizados e as informações coletadas e observadas durante o intervalo de tempo que o estudante realizou o estágio, demonstrando que o discente adquiriu experiência profissional específica, aquisição de conhecimentos e habilidades, preparando-o para o exercício profissional.
 
 ## 2. Como um Relatório de Estágio deve estar organizado?
 Em geral, um relatório de estágio é composto pelos seguintes capítulos: **Introdução**, **Fundamentação Teórica**, **Atividades Realizadas**, **Considerações Finais** e **Referências**. 
@@ -48,3 +48,6 @@ Por exemplo, suponha que você tenha realizado testes E2E (*End-to-end*) em uma 
 No caso de ferramentas e linguagens, além das informações básicas (o que é, para que serve, etc), é interessante apresentar um exemplo simples de utilização dessa ferramenta/linguagem. Para mais detalhes sobre isso, por favor, leia a seção **Comente suas figuras, tabelas e trechos de código** na [página inicial](README.md#35-comente-suas-figuras-tabelas-e-trechos-de-código) deste Guia.
 
 Por último, assim como ocorre no capítulo **Introdução**, algo bem comum de ocorrer neste capítulo é você precisar citar algum documento produzido por outra pessoa, tal como um estudo científico, uma pesquisa de opinião, um *website* de uma ferramenta computacional, entre outros. Para mais detalhes sobre isso, consulte a seção **Evite plágio! Faça citações sempre que necessário** na [página inicial](README.md#36-evite-plágio-faça-citações-sempre-que-necessário) deste Guia.
+
+[^1]: https://drive.google.com/file/d/1Xs0CNMHOkSBxdE7vsVDGxAcejcBx-ewO/view
+[^2]: https://drive.google.com/file/d/1nihXHeysnbqBB8Tqlg79LhOjw6031xK3/view

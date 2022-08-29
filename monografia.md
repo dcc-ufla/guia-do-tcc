@@ -6,7 +6,7 @@
 - [3. Como posso escrever a "Introdução" de uma Monografia?](#3-como-posso-escrever-a-introdução-de-uma-monografia)
 
 ## 1. Qual é o objetivo de uma Monografia?
-A Monografia tem como objetivo desenvolver o espírito criativo, científico, crítico, social e ético do discente de graduação, capacitando-o no estudo de problemas e proposição de soluções. Este objetivo deverá ser alcançado através da execução de trabalho individual, no qual deverão ser aplicados os conhecimentos adquiridos no curso, para a realização de uma atividade de pesquisa, de desenvolvimento técnico, de ensino ou de participação em empreendimentos e projetos de interesse social realizada pelos discentes do curso de graduação, seguindo as orientações de um docente.
+Segundo o PPC(Projeto Pedagógico do Curso) dos cursos de Ciência da Computação[^1] e Sistemas de Informação[^2], a Monografia tem como objetivo desenvolver o espírito criativo, científico, crítico, social e ético do discente de graduação, capacitando-o no estudo de problemas e proposição de soluções. Este objetivo deverá ser alcançado através da execução de trabalho individual, no qual deverão ser aplicados os conhecimentos adquiridos no curso, para a realização de uma atividade de pesquisa, de desenvolvimento técnico, de ensino ou de participação em empreendimentos e projetos de interesse social realizada pelos discentes do curso de graduação, seguindo as orientações de um docente.
 
 ## 2. Como uma Monografia deve estar organizada?
 Em geral, uma monografia é composta pelos seguintes capítulos: **Introdução**, **Fundamentação Teórica e Trabalhos Relacionados**, **Desenvolvimento**, **Considerações Finais** e **Referências**. 
@@ -39,3 +39,6 @@ O último parágrafo do texto deste capítulo deve apresentar como o trabalho en
 Não é comum, neste capítulo, utilizar figuras, tabelas, quadros, entre outros. Deixe isso para os capítulos à frente, principalmente o capítulo *Fundamentação Teórica e Trabalhos Relacionados* e *Desenvolvimento*.
 
 Por outro lado, algo bem comum é você precisar citar algum documento produzido por outra pessoa, tal como um estudo científico, uma pesquisa de opinião, um *website* de uma ferramenta computacional, entre outros. Para mais detalhes sobre isso, consulte a seção **Evite plágio! Faça citações sempre que necessário** na [página inicial](README.md#36-evite-plágio-faça-citações-sempre-que-necessário) deste Guia.
+
+[^1]: https://drive.google.com/file/d/1Xs0CNMHOkSBxdE7vsVDGxAcejcBx-ewO/view
+[^2]: https://drive.google.com/file/d/1nihXHeysnbqBB8Tqlg79LhOjw6031xK3/view
