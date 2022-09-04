@@ -5,6 +5,7 @@
 - [2. Como um Relatório de Estágio deve estar organizado?](#2-como-um-relatório-de-estágio-deve-estar-organizado)
 - [3. Como posso escrever a "Introdução" de um Relatório de Estágio?](#3-como-posso-escrever-a-introdução-de-um-relatório-de-estágio)
 - [4. Como posso escrever a "Fundamentação Teórica" de um Relatório de Estágio?](#4-como-posso-escrever-a-fundamentação-teórica-de-um-relatório-de-estágio)
+- [5. Como posso escrever o capítulo "Atividades Realizadas" de um Relatório de Estágio?](#5-como-posso-escrever-o-capítulo-atividades-realizadas-de-um-relatório-de-estágio)
 
 ## 1. Qual é o objetivo de um Relatório de Estágio?
 Segundo o PPC (Projeto Pedagógico do Curso) dos cursos Bacharelado em Ciência da Computação [^1] e Bacharelado em Sistemas de Informação [^2], um relatório de estágio tem como objetivo expor as atividades, os aprendizados e as informações coletadas e observadas durante o intervalo de tempo que o estudante realizou o estágio. A ideia é "demonstrar" que o discente adquiriu experiência profissional específica, aquisição de conhecimentos e habilidades, preparando-o para o exercício profissional.
@@ -48,6 +49,24 @@ Por exemplo, suponha que você tenha realizado testes E2E (*End-to-end*) em uma 
 No caso de ferramentas e linguagens, além das informações básicas (o que é, para que serve, etc), é interessante apresentar um exemplo simples de utilização dessa ferramenta/linguagem. Para mais detalhes sobre isso, por favor, leia a seção **Comente suas figuras, tabelas e trechos de código** na [página inicial](README.md#35-comente-suas-figuras-tabelas-e-trechos-de-código) deste Guia.
 
 Por último, assim como ocorre no capítulo **Introdução**, algo bem comum de ocorrer neste capítulo é você precisar citar algum documento produzido por outra pessoa, tal como um estudo científico, uma pesquisa de opinião, um *website* de uma ferramenta computacional, entre outros. Para mais detalhes sobre isso, consulte a seção **Evite plágio! Faça citações sempre que necessário** na [página inicial](README.md#36-evite-plágio-faça-citações-sempre-que-necessário) deste Guia.
+
+## 5. Como posso escrever o capítulo "Atividades Realizadas" de um Relatório de Estágio?
+O capítulo de Atividades Realizadas de um estágio inicialmente precisa realizar uma introdução, contemplando as características do campo de estágio, como por exemplo **aspectos administrativos** da empresa na qual o estágio foi realizado, as ferramentas disponíveis e que foram utilizadas, e se o estágio foi realizado em mais de uma etapa, também é interessante montar um **organograma** que mostra a estrutura administrativa da empresa.
+
+Além disso, é preciso expor **o que foi desenvolvido durante o estágio**, apresentar as dificuldades, aprendizados, o porquê da realização das atividades expostas, o tempo em que foram realizadas as atividades e se houve necessidade de auxílio periódico do supervisor, separados em tópicos de acordo com cada atividade relizada, de acordo com o seguinte esquema:
+
+> **1.1 Nome da atividade**
+>
+>A) O que foi feito
+>
+>B) Por que foi feito, tempo de realização da atividade
+>
+>C) Como foi feito
+>
+>D) Descrição da aprendizagem com a atividade
+
+Também é interessante abordar quais **matérias ou áreas de conhecimento do curso** se relacionam com as atividades do estágio, mostrando como o curso agregou nas atividades de estágio do aluno, além das respectivas **referências** utilizadas no decorrer de cada atividade.
+
 
 [^1]: https://drive.google.com/file/d/1Xs0CNMHOkSBxdE7vsVDGxAcejcBx-ewO/view
 [^2]: https://drive.google.com/file/d/1nihXHeysnbqBB8Tqlg79LhOjw6031xK3/view
