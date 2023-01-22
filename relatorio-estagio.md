@@ -9,6 +9,10 @@
 ## 1. Qual é o objetivo de um Relatório de Estágio?
 Segundo o PPC (Projeto Pedagógico do Curso) dos cursos Bacharelado em Ciência da Computação [^1] e Bacharelado em Sistemas de Informação [^2], um relatório de estágio tem como objetivo expor as atividades, os aprendizados e as informações coletadas e observadas durante o intervalo de tempo que o estudante realizou o estágio. A ideia é "demonstrar" que o discente adquiriu experiência profissional específica, aquisição de conhecimentos e habilidades, preparando-o para o exercício profissional.
 
+**Atenção**
+
+O estágio deve estar regulamento junto à UFLA e **não** pode ser realizado por profissionais que já atuem em nível de desenvolvedor acima de júnior ou com outras atribuições (Database manager, scrum master, etc) ou quaisquer variantes que indiquem inserção já consolidada no mercado de trabalho, neste caso o [relatório técnico](./relatorio-tecnico.md) pode ser uma alternativa.
+
 ## 2. Como um Relatório de Estágio deve estar organizado?
 Em geral, um relatório de estágio é composto pelos seguintes capítulos: **Introdução**, **Fundamentação Teórica**, **Atividades Realizadas**, **Considerações Finais** e **Referências**. 
 
