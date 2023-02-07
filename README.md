@@ -25,6 +25,7 @@ Uma vez escolhida a modalidade do TCC, acesse o *link* correspondente abaixo par
 
 - [Monografia](monografia.md)
 - [Relatório de Estágio](relatorio-estagio.md)
+- [Relatório Técnico](relatorio-tecnico.md)
 
 ## 2. Qual formato devo utilizar para escrever meu TCC?
 
