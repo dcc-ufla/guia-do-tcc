@@ -9,6 +9,27 @@
 ## 1. Qual é o objetivo de um Relatório de Estágio?
 Segundo o PPC (Projeto Pedagógico do Curso) dos cursos Bacharelado em Ciência da Computação [^1] e Bacharelado em Sistemas de Informação [^2], um relatório de estágio tem como objetivo expor as atividades, os aprendizados e as informações coletadas e observadas durante o intervalo de tempo que o estudante realizou o estágio. A ideia é "demonstrar" que o discente adquiriu experiência profissional específica, aquisição de conhecimentos e habilidades, preparando-o para o exercício profissional.
 
+**Atenção**
+
+O estágio deve estar regulamento junto à UFLA e **não** pode ser realizado por profissionais que já atuem em nível de desenvolvedor acima de júnior ou com outras atribuições (Database manager, scrum master, etc) ou quaisquer variantes que indiquem inserção já consolidada no mercado de trabalho, neste caso o [relatório técnico](./relatorio-tecnico.md) pode ser uma alternativa.
+
+Conforme a PROEC afirma nesta [página](https://proec.ufla.br/estagios):
+
+> Setor responsável pelo controle, registro e acompanhamento dos estágios em que a Universidade Federal de Lavras tenha parte como Instituição de Ensino ou como concedente, **seguindo as orientações da Lei de Estágio de número 11.788, de 25 de setembro de 2008**.
+
+Nesta lei disponivel em [Lei do Estágio](https://www.planalto.gov.br/ccivil_03/_ato2007-2010/2008/lei/l11788.htm), destacam-se dois pontos que normalmente vão conseguir distinguir o estágio de outras atividades. São elas:
+
+No artigo 3, após mencionar sobre as definições, classificações e relações de estágio:
+
+> Art. 3o  O estágio, tanto na hipótese do § 1o do art. 2o desta Lei quanto na prevista no § 2o do mesmo dispositivo, **não cria vínculo empregatício de qualquer natureza* 
+
+E no artigo 10, da parte do estágiario, que dispõe das regras sobre jornada de trabalho:
+
+> Art. 10.  A jornada de atividade em estágio será definida de comum acordo entre a instituição de ensino, a parte concedente e o aluno estagiário ou seu representante legal, devendo constar do termo de compromisso ser compatível com as atividades escolares e não ultrapassar: 
+> I – 4 (quatro) horas diárias e 20 (vinte) horas semanais, no caso de estudantes de educação especial e dos anos finais do ensino fundamental, na modalidade profissional de educação de jovens e adultos;
+> II – 6 (seis) horas diárias e 30 (trinta) horas semanais, no caso de estudantes do ensino superior, da educação profissional de nível médio e do ensino médio regular
+
+
 ## 2. Como um Relatório de Estágio deve estar organizado?
 Em geral, um relatório de estágio é composto pelos seguintes capítulos: **Introdução**, **Fundamentação Teórica**, **Atividades Realizadas**, **Considerações Finais** e **Referências**. 
 
