@@ -19,10 +19,11 @@ Este guia tem como objetivo disponibilizar em um só lugar as respostas para as 
 
 ## 1. Quais modalidades de TCC de eu posso realizar?
 
-Aqui no DCC/UFLA, as modalidades aceitas para TCC são: **monografia**, **relatório técnico**, **plano de negócios** e **relatório de estágio**. Contudo, isso pode variar de curso para curso; **consulte o coordenador de seu curso** (ou seu orientador) sobre as modalidades disponíveis.
+Aqui no DCC/UFLA, as modalidades aceitas para TCC são: **monografia**, **artigo científico**, **relatório técnico**, **plano de negócios** e **relatório de estágio**. Contudo, isso pode variar de curso para curso; **consulte o coordenador de seu curso** (ou seu orientador) sobre as modalidades disponíveis.
 
 Uma vez escolhida a modalidade do TCC, acesse o *link* correspondente abaixo para obter mais informações sobre ela:
 
+- [Artigo científico](artigo-cientifico.md)
 - [Monografia](monografia.md)
 - [Relatório de Estágio](relatorio-estagio.md)
 - [Relatório Técnico](relatorio-tecnico.md)
